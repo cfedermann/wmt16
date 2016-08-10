@@ -1,0 +1,28 @@
+PS C:\Users\chrife\Source\Repos\wmt16-data\data\collapsed> C:\Python27\python.exe C:\Users\chrife\Source\Repos\wmt16-data\scripts\compute_agreement_scores.py .\wmt16.collapsed.all.csv --verbose --inter
+Language pair        pA     pE     kappa  (agree, comparable, ties, total)
+       Czech-English  0.510  0.351  0.244     9370    18389     9836    43991
+       English-Czech  0.607  0.366  0.381    11900    19594    14465    77948
+      German-English  0.696  0.421  0.475      749     1076     1182    12926
+      English-German  0.605  0.373  0.369     2018     3338     5073    29770
+     Russian-English  0.569  0.349  0.339     1410     2476     4742    20520
+     English-Russian  0.562  0.336  0.340     1565     2786     7307    25117
+     Finnish-English  0.532  0.338  0.293     2125     3998     7180    25637
+     English-Finnish  0.702  0.423  0.484     1925     2742     2335    26172
+    Romanian-English  0.586  0.371  0.341     1793     3062     2101    11978
+    English-Romanian  0.593  0.345  0.379      302      509     2110     8642
+     Turkish-English  0.554  0.345  0.319      349      630     2367     9684
+     English-Turkish  0.548  0.334  0.322      403      735     3540    10095
+PS C:\Users\chrife\Source\Repos\wmt16-data\data\collapsed> C:\Python27\python.exe C:\Users\chrife\Source\Repos\wmt16-data\scripts\compute_agreement_scores.py .\wmt16.collapsed.all.csv --verbose --intra
+Language pair        pA     pE     kappa  (agree, comparable, ties, total)
+       Czech-English  0.670  0.334  0.504      700     1045     1704     5575
+       English-Czech  0.635  0.350  0.438     1861     2932     5680    24827
+      German-English  0.754  0.450  0.552      101      134       64     1182
+      English-German  0.698  0.360  0.529      264      378      606     3033
+     Russian-English  0.705  0.341  0.552      155      220      514     1968
+     English-Russian  0.686  0.334  0.528      227      331     1267     3600
+     Finnish-English  0.710  0.357  0.549      360      507     1854     4042
+     English-Finnish  0.790  0.451  0.617      432      547      256     4802
+    Romanian-English  0.755  0.355  0.621      139      184      227     1060
+    English-Romanian  0.704  0.340  0.552      119      169      401     1509
+     Turkish-English  0.714  0.352  0.559       45       63      136      610
+     English-Turkish  0.574  0.343  0.352      116      202      764     1843
