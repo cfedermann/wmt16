@@ -1,0 +1,9 @@
+newstest2016.online-B.0.ro-en 0.583 (1.0, 2.0)
+newstest2016.uedin-nmt.4302.ro-en 0.377 (1.0, 2.0)
+++++++++++
+newstest2016.uedin-pbmt.4363.ro-en 0.097 (3.0, 3.0)
+++++++++++
+newstest2016.uedin-syntax.4272.ro-en -0.085 (4.0, 5.0)
+newstest2016.online-A.0.ro-en -0.188 (4.0, 6.0)
+newstest2016.jhu-pbmt.4284.ro-en -0.321 (5.0, 7.0)
+newstest2016.LIMSI.4422.ro-en -0.464 (6.0, 7.0)

@@ -1,0 +1,13 @@
+newstest2016.online-G.0.en-tr 0.762 (1.0, 2.0)
+newstest2016.online-B.0.en-tr 0.619 (1.0, 2.0)
+++++++++++
+newstest2016.online-A.0.en-tr 0.377 (3.0, 3.0)
+++++++++++
+newstest2016.dvorkanton.4398.en-tr 0.059 (4.0, 4.0)
+++++++++++
+newstest2016.jhu-hltcoe.4465.en-tr -0.128 (5.0, 6.0)
+newstest2016.tbtk-morph-HPB.4503.en-tr -0.191 (5.0, 7.0)
+newstest2016.CMU.4538.en-tr -0.294 (6.0, 7.0)
+++++++++++
+newstest2016.jhu-pbmt.4288.en-tr -0.543 (8.0, 9.0)
+newstest2016.ParFDA.4543.en-tr -0.662 (8.0, 9.0)

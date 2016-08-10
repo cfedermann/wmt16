@@ -1,0 +1,17 @@
+newstest2016.uedin-nmt.4361.cs-en 0.617 (1.0, 1.0)
+++++++++++
+newstest2016.jhu-pbmt.4290.cs-en 0.317 (2.0, 2.0)
+++++++++++
+newstest2016.online-B.0.cs-en 0.209 (3.0, 3.0)
+++++++++++
+newstest2016.tuning-task-bleu-mira.0.cs-en 0.114 (4.0, 6.0)
+newstest2016.tuning-task-afrl.0.cs-en 0.096 (4.0, 7.0)
+newstest2016.tuning-task-nrc-nnbleu.0.cs-en 0.09 (4.0, 7.0)
+newstest2016.tuning-task-nrc-meant.0.cs-en 0.073 (5.0, 8.0)
+newstest2016.tuning-task-beer-pro.0.cs-en 0.032 (7.0, 10.0)
+newstest2016.PJATK.4520.cs-en 0.004 (8.0, 10.0)
+newstest2016.tuning-task-bleu-mert.0.cs-en 0.0 (8.0, 10.0)
+++++++++++
+newstest2016.online-A.0.cs-en -0.07 (11.0, 11.0)
+++++++++++
+newstest2016.cu-mergedtrees.4515.cs-en -1.482 (12.0, 12.0)

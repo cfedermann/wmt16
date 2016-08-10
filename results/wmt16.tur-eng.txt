@@ -1,0 +1,11 @@
+newstest2016.online-B.0.tr-en 0.824 (1.0, 2.0)
+newstest2016.online-G.0.tr-en 0.651 (1.0, 3.0)
+newstest2016.online-A.0.tr-en 0.562 (2.0, 3.0)
+++++++++++
+newstest2016.tbtk-syscomb.4509.tr-en 0.21 (4.0, 5.0)
+newstest2016.PROMT-SMT.4335.tr-en 0.124 (4.0, 6.0)
+newstest2016.dvorkanton.4346.tr-en -0.0 (5.0, 6.0)
+++++++++++
+newstest2016.jhu-syntax.4391.tr-en -0.671 (7.0, 8.0)
+newstest2016.jhu-pbmt.4285.tr-en -0.762 (7.0, 9.0)
+newstest2016.ParFDA.4542.tr-en -0.939 (8.0, 9.0)

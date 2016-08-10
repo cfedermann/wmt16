@@ -1,0 +1,17 @@
+newstest2016.PROMT-Rule-based.4276.en-ru 0.788 (1.0, 1.0)
+++++++++++
+newstest2016.AMU-UEDIN.4450.en-ru 0.302 (2.0, 4.0)
+newstest2016.online-B.0.en-ru 0.261 (2.0, 5.0)
+newstest2016.uedin-nmt.4307.en-ru 0.259 (2.0, 5.0)
+newstest2016.online-G.0.en-ru 0.202 (3.0, 5.0)
+++++++++++
+newstest2016.NYU-UMontreal.4408.en-ru 0.1 (6.0, 6.0)
+++++++++++
+newstest2016.jhu-pbmt.4293.en-ru -0.017 (7.0, 8.0)
+newstest2016.LIMSI.4349.en-ru -0.074 (7.0, 10.0)
+newstest2016.online-A.0.en-ru -0.103 (8.0, 10.0)
+newstest2016.AFRL-MITLL-phrase-based.4506.en-ru -0.149 (9.0, 10.0)
+++++++++++
+newstest2016.AFRL-MITLL-verb-annot.4526.en-ru -0.311 (11.0, 11.0)
+++++++++++
+newstest2016.online-F.0.en-ru -1.26 (12.0, 12.0)

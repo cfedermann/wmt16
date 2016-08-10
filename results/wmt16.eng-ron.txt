@@ -1,0 +1,14 @@
+newstest2016.uedin-nmt.4301.en-ro 0.447 (1.0, 2.0)
+newstest2016.QT21-HimL-SysComb.4513.en-ro 0.433 (1.0, 2.0)
+++++++++++
+newstest2016.KIT.4428.en-ro 0.204 (3.0, 7.0)
+newstest2016.uedin-pbmt.4362.en-ro 0.157 (3.0, 7.0)
+newstest2016.online-B.0.en-ro 0.141 (3.0, 7.0)
+newstest2016.uedin-lmu-hiero.4432.en-ro 0.135 (3.0, 7.0)
+newstest2016.RWTH-SYSCOMB.4497.en-ro 0.123 (3.0, 7.0)
+++++++++++
+newstest2016.LIMSI.4423.en-ro -0.152 (8.0, 10.0)
+newstest2016.lmu-cuni.4495.en-ro -0.229 (8.0, 10.0)
+newstest2016.jhu-pbmt.4291.en-ro -0.262 (8.0, 11.0)
+newstest2016.usfd-rescoring.4449.en-ro -0.431 (10.0, 12.0)
+newstest2016.online-A.0.en-ro -0.566 (11.0, 12.0)

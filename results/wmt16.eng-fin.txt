@@ -1,0 +1,15 @@
+newstest2016.online-G.0.en-fi 0.363 (1.0, 3.0)
+newstest2016.abumatran-nmt.4412.en-fi 0.313 (1.0, 4.0)
+newstest2016.online-B.0.en-fi 0.293 (1.0, 4.0)
+newstest2016.abumatran-combo.4496.en-fi 0.232 (3.0, 5.0)
+newstest2016.UH-opus.4414.en-fi 0.157 (4.0, 5.0)
+++++++++++
+newstest2016.abumatran-pbsmt.4409.en-fi -0.014 (6.0, 8.0)
+newstest2016.NYU-UMontreal.4329.en-fi -0.016 (6.0, 8.0)
+newstest2016.online-A.0.en-fi -0.019 (6.0, 8.0)
+++++++++++
+newstest2016.jhu-pbmt.4289.en-fi -0.144 (9.0, 10.0)
+newstest2016.UH-factored.4382.en-fi -0.228 (9.0, 12.0)
+newstest2016.aalto.4405.en-fi -0.282 (10.0, 13.0)
+newstest2016.jhu-hltcoe.4466.en-fi -0.3 (10.0, 13.0)
+newstest2016.UUT.4529.en-fi -0.355 (11.0, 13.0)

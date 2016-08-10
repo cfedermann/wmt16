@@ -1,0 +1,31 @@
+newstest2016.uedin-nmt.4360.en-cs 0.595 (1.0, 1.0)
+++++++++++
+newstest2016.NYU-UMontreal.4294.en-cs 0.428 (2.0, 2.0)
+++++++++++
+newstest2016.jhu-pbmt.4292.en-cs 0.342 (3.0, 3.0)
+++++++++++
+newstest2016.cu-chimera.4527.en-cs 0.302 (4.0, 5.0)
+newstest2016.cu-tamchyna.4514.en-cs 0.3 (4.0, 5.0)
+++++++++++
+newstest2016.uedin-cu-syntax.4494.en-cs 0.222 (6.0, 7.0)
+newstest2016.online-B.0.en-cs 0.193 (6.0, 7.0)
+++++++++++
+newstest2016.tuning-task-bleu-mira.0.en-cs 0.16 (8.0, 11.0)
+newstest2016.tuning-task-beer-pro.0.en-cs 0.152 (8.0, 12.0)
+newstest2016.tuning-task-bleu-mert.0.en-cs 0.151 (8.0, 13.0)
+newstest2016.tuning-task-afrl2.0.en-cs 0.139 (9.0, 14.0)
+newstest2016.tuning-task-afrl1.0.en-cs 0.136 (9.0, 14.0)
+newstest2016.tuning-task-dcu.0.en-cs 0.133 (9.0, 14.0)
+newstest2016.tuning-task-fjfi.0.en-cs 0.127 (11.0, 14.0)
+++++++++++
+newstest2016.online-A.0.en-cs 0.078 (15.0, 15.0)
+++++++++++
+newstest2016.cu-TectoMT.4330.en-cs -0.025 (16.0, 16.0)
+++++++++++
+newstest2016.tuning-task-usaar-hmm-mert.0.en-cs -0.432 (17.0, 17.0)
+++++++++++
+newstest2016.cu-mergedtrees.4406.en-cs -0.543 (18.0, 18.0)
+++++++++++
+newstest2016.tuning-task-usaar-hmm-mira.0.en-cs -1.134 (19.0, 19.0)
+++++++++++
+newstest2016.tuning-task-usaar-harmonic-mert-mira.0.en-cs -1.327 (20.0, 20.0)

@@ -1,0 +1,14 @@
+newstest2016.uedin-nmt.4313.de-en 0.817 (1.0, 1.0)
+++++++++++
+newstest2016.online-B.0.de-en 0.254 (2.0, 5.0)
+newstest2016.online-A.0.de-en 0.212 (2.0, 5.0)
+newstest2016.uedin-syntax.4271.de-en 0.194 (2.0, 5.0)
+newstest2016.KIT.4482.de-en 0.179 (2.0, 6.0)
+newstest2016.uedin-pbmt.4336.de-en 0.044 (5.0, 7.0)
+newstest2016.jhu-pbmt.4530.de-en 0.025 (6.0, 7.0)
+++++++++++
+newstest2016.online-G.0.de-en -0.121 (8.0, 8.0)
+++++++++++
+newstest2016.jhu-syntax.4517.de-en -0.67 (9.0, 9.0)
+++++++++++
+newstest2016.online-F.0.de-en -0.934 (10.0, 10.0)
