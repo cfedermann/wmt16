@@ -1,0 +1,21 @@
+#!/usr/bin/python
+
+# Reads in a CSV file of N lines, randomly samples N lines (with replacement), outputs those lines
+# Assumes there's a one-line header, which is always output and not sampled
+
+import sys
+import random
+
+inlines = []
+for i,line in enumerate(sys.stdin):
+    if i == 0:
+        header = line
+        continue
+
+    inlines.append(line)
+
+outlines = [random.choice(inlines) for i in range(len(inlines))]
+
+print header,
+for line in outlines:
+    print line,
