@@ -1,0 +1,7 @@
+it-test2016.IILC-UvA-Scorpio.4438.en-nl 1.945 (1.0, 1.0)
+++++++++++
+it-test2016.qtl-Chimera.4373.en-nl 0.363 (2.0, 2.0)
+++++++++++
+it-test2016.qtl-TectoMT.4374.en-nl 0.154 (3.0, 3.0)
+++++++++++
+it-test2016.qtl-Moses.4378.en-nl -2.462 (4.0, 4.0)

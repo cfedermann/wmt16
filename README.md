@@ -5,6 +5,11 @@ human evaluation. It can be downloaded from:
 
     http://statmt.org/wmt16/results.html
     
+Included are the results for both the main (news) translation task and
+the IT translation task (under it-task/). The instructions below apply
+to the news translation task data, but are similar for both. See the
+it-task/ directory for more information about that.
+    
 If you use this data, please cite the following paper:
 
     @InProceedings{bojar-EtAl:2016:WMT1,

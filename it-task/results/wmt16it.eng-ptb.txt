@@ -1,0 +1,7 @@
+it-test2016.PROMT-Hybrid.4279.en-pt 4.608 (1.0, 1.0)
+++++++++++
+it-test2016.qtl-TectoMT.4316.en-pt -1.063 (2.0, 2.0)
+++++++++++
+it-test2016.qtl-Chimera.4314.en-pt -1.269 (3.0, 3.0)
+++++++++++
+it-test2016.qtl-Moses.4315.en-pt -2.276 (4.0, 4.0)

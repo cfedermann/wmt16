@@ -1,0 +1,7 @@
+it-test2016.qtl-Chimera-pure.4260.en-cs 0.527 (1.0, 2.0)
+it-test2016.ILLC-UvA-DS.4523.en-cs 0.427 (1.0, 2.0)
+++++++++++
+it-test2016.qtl-TectoMT.4321.en-cs 0.13 (3.0, 3.0)
+++++++++++
+it-test2016.qtl-Chimera-plus.4516.en-cs -0.468 (4.0, 5.0)
+it-test2016.qtl-Moses.4304.en-cs -0.616 (4.0, 5.0)
