@@ -1,0 +1,3 @@
+it-test2016.qtl-TectoMT.4473.en-eu 1.57 (1.0, 1.0)
+++++++++++
+it-test2016.qtl-Moses.4268.en-eu -1.57 (2.0, 2.0)

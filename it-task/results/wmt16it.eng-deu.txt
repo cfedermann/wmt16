@@ -1,0 +1,14 @@
+it-test2016.PROMT-Rule-based.4278.en-de 1.605 (1.0, 1.0)
+++++++++++
+it-test2016.UHBS-lmi.4468.en-de -0.043 (2.0, 5.0)
+it-test2016.UHDS-doc2vec.4467.en-de -0.06 (2.0, 6.0)
+it-test2016.qtl-RBMT-SMTmenus.4461.en-de -0.062 (2.0, 6.0)
+it-test2016.RBMT.4452.en-de -0.093 (3.0, 6.0)
+it-test2016.qtl-RBMT-menus.4454.en-de -0.098 (3.0, 6.0)
+++++++++++
+it-test2016.DFKI-syntax.4463.en-de -0.19 (7.0, 8.0)
+it-test2016.JU-USAAR.4390.en-de -0.194 (7.0, 8.0)
+++++++++++
+it-test2016.qtl-selection.4462.en-de -0.382 (9.0, 9.0)
+++++++++++
+it-test2016.qtl-Moses.4464.en-de -0.485 (10.0, 10.0)
